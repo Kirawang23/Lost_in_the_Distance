@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: claude-3-5-sonnet-20240620 【noise_type】: novel 【n_shot】: 0 【reverse】: True 【position】: qnnna 【max_tokens】: 20000
+
+run_20000/claude-3-5-sonnet-20240620_novel_0_True_qnnna
+******************Classification Report*****************
+
+Exact Match: 0.795
+Precison: 0.795593822843823
+Recall: 0.8025
+F1 Score: 0.7960974025974028
+BLEU Score: 1.1709594947984458e-154
+ROUGE Score: 0.7973438735177867
+************************End Test************************
+Processing time: 3.992459503809611 mins
