@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-flash 【noise_type】: redpajama 【n_shot】: 0 【reverse】: False 【position】: qnnna 
+
+run_gemini-1.5-flash_redpajama_0_False_qnnna
+Warning: Some data is not predicted.
+The number of data not predicted: 1
+******************Classification Report*****************
+
+Exact Match: 0.7386934673366834
+Precison: 0.7906795884182818
+Recall: 0.7726799442879845
+F1 Score: 0.7759261118557601
+BLEU Score: 0.7211416729149117
+ROUGE Score: 0.7761519887148028
+************************End Test************************
+Processing time: 3.672610362370809 mins

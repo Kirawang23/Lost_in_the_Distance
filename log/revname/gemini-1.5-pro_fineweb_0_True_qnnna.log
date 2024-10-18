@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: fineweb 【n_shot】: 0 【reverse】: True 【position】: qnnna 
+
+run_gemini-1.5-pro_fineweb_0_True_qnnna
+Warning: Some data is not predicted.
+The number of data not predicted: 1
+******************Classification Report*****************
+
+Exact Match: 0.7537688442211056
+Precison: 0.7537688442211056
+Recall: 0.7537688442211056
+F1 Score: 0.7537688442211056
+BLEU Score: 1.0943896952314005e-154
+ROUGE Score: 0.7537688442211056
+************************End Test************************
+Processing time: 0.08637315034866333 mins

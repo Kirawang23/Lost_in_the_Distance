@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-flash 【noise_type】: redpajama 【n_shot】: 0 【reverse】: True 【position】: qnnna 
+
+run_gemini-1.5-flash_redpajama_0_True_qnnna
+******************Classification Report*****************
+
+Exact Match: 0.98
+Precison: 0.98
+Recall: 0.98
+F1 Score: 0.98
+BLEU Score: 1.4170847389280526e-154
+ROUGE Score: 0.98
+************************End Test************************
+Processing time: 3.872402767340342 mins

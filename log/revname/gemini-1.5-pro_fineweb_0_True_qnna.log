@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: fineweb 【n_shot】: 0 【reverse】: True 【position】: qnna 
+
+run_gemini-1.5-pro_fineweb_0_True_qnna
+******************Classification Report*****************
+
+Exact Match: 0.715
+Precison: 0.7175
+Recall: 0.7175
+F1 Score: 0.7175
+BLEU Score: 1.0516260430992425e-154
+ROUGE Score: 0.7175
+************************End Test************************
+Processing time: 0.0006708025932312012 mins
