@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-flash 【noise_type】: fineweb 【n_shot】: 0 【reverse】: False 【position】: qa 
+
+run_gemini-1.5-flash_fineweb_0_False_qa
+Warning: Some data is not predicted.
+The number of data not predicted: 4
+******************Classification Report*****************
+
+Exact Match: 0.9642857142857143
+Precison: 0.9764739229024945
+Recall: 0.9656138645934564
+F1 Score: 0.9669379656624555
+BLEU Score: 0.91335348804348
+ROUGE Score: 0.9670796890184645
+************************End Test************************
+Processing time: 3.1385024348894754 mins

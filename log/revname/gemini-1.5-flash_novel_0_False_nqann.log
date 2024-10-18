@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-flash 【noise_type】: novel 【n_shot】: 0 【reverse】: False 【position】: nqann 
+
+run_gemini-1.5-flash_novel_0_False_nqann
+******************Classification Report*****************
+
+Exact Match: 0.82
+Precison: 0.89939708575738
+Recall: 0.884116341991342
+F1 Score: 0.8811541484777128
+BLEU Score: 0.8519340105712458
+ROUGE Score: 0.8823578600238564
+************************End Test************************
+Processing time: 0.0013284881909688313 mins
