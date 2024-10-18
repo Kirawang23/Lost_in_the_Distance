@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revparent 【model】: gpt-4 【noise_type】: novel 【n_shot】: 0 【reverse】: False 【position】: qa 
+
+run_gpt-4_novel_0_False_qa
+******************Classification Report*****************
+
+Exact Match: 1.0
+Precison: 1.0
+Recall: 1.0
+F1 Score: 1.0
+BLEU Score: 1.2927790600747208e-154
+ROUGE Score: 1.0
+************************End Test************************
+Processing time: 0.00015894969304402668 mins
