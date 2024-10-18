@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revcause 【model】: gemini-1.5-pro 【noise_type】: novel 【n_shot】: 0 【reverse】: False 【position】: qnnna 
+
+run_gemini-1.5-pro_novel_0_False_qnnna
+******************Classification Report*****************
+
+Exact Match: 0.995
+Precison: 0.995
+Recall: 0.995
+F1 Score: 0.995
+BLEU Score: 0.795
+ROUGE Score: 0.995
+************************End Test************************
+Processing time: 0.0008106152216593425 mins

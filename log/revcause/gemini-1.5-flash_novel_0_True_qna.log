@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revcause 【model】: gemini-1.5-flash 【noise_type】: novel 【n_shot】: 0 【reverse】: True 【position】: qna 
+
+run_gemini-1.5-flash_novel_0_True_qna
+Warning: Some data is not predicted.
+The number of data not predicted: 3
+******************Classification Report*****************
+
+Exact Match: 0.9441624365482234
+Precison: 0.9616831842720168
+Recall: 0.9709934735315445
+F1 Score: 0.9649581946536261
+BLEU Score: 0.758663434210481
+ROUGE Score: 0.9649581946536261
+************************End Test************************
+Processing time: 3.042651883761088 mins
