@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: redpajama 【n_shot】: 0 【reverse】: False 【position】: qa 
+
+run_gemini-1.5-pro_redpajama_0_False_qa
+Warning: Some data is not predicted.
+The number of data not predicted: 6
+******************Classification Report*****************
+
+Exact Match: 0.9639175257731959
+Precison: 0.9948453608247423
+Recall: 0.9743554841492985
+F1 Score: 0.9782633129214788
+BLEU Score: 0.8972333704792065
+ROUGE Score: 0.9783104949734264
+************************End Test************************
+Processing time: 0.1971859335899353 mins

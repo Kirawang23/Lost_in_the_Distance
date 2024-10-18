@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: novel 【n_shot】: 0 【reverse】: False 【position】: qannn 
+
+run_gemini-1.5-pro_novel_0_False_qannn
+******************Classification Report*****************
+
+Exact Match: 0.755
+Precison: 0.9562790057165057
+Recall: 0.8926195781342843
+F1 Score: 0.9052123038699594
+BLEU Score: 0.8687396785481113
+ROUGE Score: 0.9075559752231971
+************************End Test************************
+Processing time: 0.0010206818580627442 mins

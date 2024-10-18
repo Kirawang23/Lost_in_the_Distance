@@ -1,0 +1,16 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: random 【n_shot】: 0 【reverse】: False 【position】: qnna 
+
+run_gemini-1.5-pro_random_0_False_qnna
+Warning: Some data is not predicted.
+The number of data not predicted: 1
+******************Classification Report*****************
+
+Exact Match: 0.8542713567839196
+Precison: 0.964465183058148
+Recall: 0.9284780816779044
+F1 Score: 0.9380341996217036
+BLEU Score: 0.8639603348435716
+ROUGE Score: 0.9385140901163606
+************************End Test************************
+Processing time: 0.07433336973190308 mins

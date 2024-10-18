@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gemini-1.5-pro 【noise_type】: random 【n_shot】: 0 【reverse】: True 【position】: qa 
+
+run_gemini-1.5-pro_random_0_True_qa
+******************Classification Report*****************
+
+Exact Match: 1.0
+Precison: 1.0
+Recall: 1.0
+F1 Score: 1.0
+BLEU Score: 1.4543764425840537e-154
+ROUGE Score: 1.0
+************************End Test************************
+Processing time: 0.000529483954111735 mins
