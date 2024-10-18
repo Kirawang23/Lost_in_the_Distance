@@ -32,7 +32,7 @@ To reproduce the main experiments, you can run the following scripts:
 
 2. **Ablation Study:**
     ```bash
-   bash lablation_study_noise.sh
+   bash ablation_study_noise.sh
    ```
    ```bash
    bash ablation_study_task.sh
