@@ -1,6 +1,6 @@
 positions=("qnnna" "qnna" "qna" "qa")
 reverse_flags=(True False)
-models=("claude-3-5-sonnet-20240620")
+models=("gemini-1.5-pro")
 n_shots=(0)
 task_names=("revname")
 noise_types=("novel")

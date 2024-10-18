@@ -35,7 +35,7 @@ def parse_argument():
     parser.add_argument(
         "--max_tokens", default=10000, type=int, help="Max noise tokens")
     parser.add_argument(
-        "--task_name", default="revparent", type=str, help="task to test: revname/revcause/revparent/revcause-copa"
+        "--task_name", default="revparent", type=str, help="task to test: revname/revcause/revparent"
     )
     parser.add_argument(
         "--position", default="qa", type=str, help="qa/qna/qnna/qnnna"

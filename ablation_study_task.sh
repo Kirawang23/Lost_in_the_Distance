@@ -2,7 +2,7 @@
 positions=("qa" "qna" "qnna" "qnnna")
 task_names=("revname" "revparent" "revcause")
 reverse_flags=(True False)
-models=("gemini-1.5-flash")
+models=("gemini-1.5-pro")
 n_shots=(0)
 noise_types=("novel")
 
