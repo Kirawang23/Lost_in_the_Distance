@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gpt-4 【noise_type】: novel 【n_shot】: 0 【reverse】: True 【position】: nnqan 
+
+run_gpt-4_novel_0_True_nnqan
+******************Classification Report*****************
+
+Exact Match: 0.55
+Precison: 0.6033300697970917
+Recall: 0.99
+F1 Score: 0.6449746911842891
+BLEU Score: 1.01521166793275e-154
+ROUGE Score: 0.6427179203951655
+************************End Test************************
+Processing time: 0.0007625182469685872 mins

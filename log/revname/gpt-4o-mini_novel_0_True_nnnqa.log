@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gpt-4o-mini 【noise_type】: novel 【n_shot】: 0 【reverse】: True 【position】: nnnqa 
+
+run_gpt-4o-mini_novel_0_True_nnnqa
+******************Classification Report*****************
+
+Exact Match: 0.94
+Precison: 0.94
+Recall: 0.94
+F1 Score: 0.94
+BLEU Score: 1.4021680574656522e-154
+ROUGE Score: 0.94
+************************End Test************************
+Processing time: 0.0005424658457438152 mins

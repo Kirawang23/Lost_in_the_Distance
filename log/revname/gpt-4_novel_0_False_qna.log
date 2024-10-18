@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gpt-4 【noise_type】: novel 【n_shot】: 0 【reverse】: False 【position】: qna 
+
+run_gpt-4_novel_0_False_qna
+******************Classification Report*****************
+
+Exact Match: 0.54
+Precison: 0.7885966801086771
+Recall: 0.8341427183927181
+F1 Score: 0.7920904497431116
+BLEU Score: 0.7219901363145506
+ROUGE Score: 0.7933434660381811
+************************End Test************************
+Processing time: 0.001076797644297282 mins

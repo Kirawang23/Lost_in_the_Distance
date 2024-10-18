@@ -1,0 +1,14 @@
+************************Start Test**********************
+【task】: revname 【model】: gpt-4 【noise_type】: fineweb 【n_shot】: 0 【reverse】: True 【position】: qnnna 
+
+run_gpt-4_fineweb_0_True_qnnna
+******************Classification Report*****************
+
+Exact Match: 0.9333333333333333
+Precison: 0.9333333333333333
+Recall: 0.9333333333333333
+F1 Score: 0.9333333333333333
+BLEU Score: 1.3922236031573915e-154
+ROUGE Score: 0.9333333333333333
+************************End Test************************
+Processing time: 1.4355462352434794 mins
