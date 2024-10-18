@@ -15,8 +15,7 @@ Ensure you have the following dependencies installed:
 - Required Python packages (can be installed via `requirements.txt`).
 
 ### Reproducing the Figures
-All the `log` and `predictions` are included in this repository. You can run the following script to reproduce all the `figure` in the paper:
-
+Due to upload constraints, only a subset of representative `predictions` is included. We will release the full set of `predictions` via Google Drive. All `log` are included in this repository. You can run the following script to reproduce all the `figure` from the paper:
 ```bash
 cd script
 python3 plot.py
